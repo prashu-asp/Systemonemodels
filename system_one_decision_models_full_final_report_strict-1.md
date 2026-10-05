@@ -1,11 +1,6 @@
-# SYSTEM ONE DECISION MODELS — FINAL REPORT
-
-> Combined from the supplied final section files. Source content is preserved; only section headings and separators are added.
+# SYSTEM ONE DECISION MODELS
 
 ## Section 1 — System One Fundamentals
-
-SYSTEM ONE MODELS — REPORT 2
-Detailed explanation
 
 1. OVERVIEW
 
